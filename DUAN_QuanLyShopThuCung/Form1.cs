@@ -19,7 +19,7 @@ namespace DUAN_QuanLyShopThuCung
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ///sfasdfsdfsadfas
+            int a;
         }
     }
 }
