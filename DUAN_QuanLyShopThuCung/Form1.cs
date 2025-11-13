@@ -21,6 +21,7 @@ namespace DUAN_QuanLyShopThuCung
         {
             int a;
             int  b;
+            int c;
         }
     }
 }
